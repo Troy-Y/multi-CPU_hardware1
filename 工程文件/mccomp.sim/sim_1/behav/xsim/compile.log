@@ -1,0 +1,27 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/dff32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dff32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/dffe32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dffe32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccomp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mccomp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mccpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mccu
+INFO: [VRFC 10-2458] undeclared symbol i_bgezal, assumed default net type wire [D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccu.v:41]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mcmem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mcmem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux2x32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2x32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux2x5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2x5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux4x32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4x32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.srcs/sim_1/new/mccomp_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mccomp_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado_project/multi_cpu/mccomp.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../mccomp.srcs/sources_1/new/alu.v" \
+"../../../../mccomp.srcs/sources_1/new/dff32.v" \
+"../../../../mccomp.srcs/sources_1/new/dffe32.v" \
+"../../../../mccomp.srcs/sources_1/new/mccomp.v" \
+"../../../../mccomp.srcs/sources_1/new/mccpu.v" \
+"../../../../mccomp.srcs/sources_1/new/mccu.v" \
+"../../../../mccomp.srcs/sources_1/new/mcmem.v" \
+"../../../../mccomp.srcs/sources_1/new/mux2x32.v" \
+"../../../../mccomp.srcs/sources_1/new/mux2x5.v" \
+"../../../../mccomp.srcs/sources_1/new/mux4x32.v" \
+"../../../../mccomp.srcs/sources_1/new/regfile.v" \
+"../../../../mccomp.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,17 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/vivado_project/multi_cpu/mccomp.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sim_1/new/mccomp_tb.v,1661479036,verilog,,,,mccomp_tb,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/alu.v,1661947876,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/dff32.v,,alu,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/dff32.v,1661946933,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/dffe32.v,,dff32,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/dffe32.v,1661944915,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccomp.v,,dffe32,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccomp.v,1661944211,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccpu.v,,mccomp,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccpu.v,1661943950,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccu.v,,mccpu,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mccu.v,1661944318,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mcmem.v,,mccu,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mcmem.v,1661947875,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux2x32.v,,mcmem,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux2x32.v,1661947676,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux2x5.v,,mux2x32,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux2x5.v,1661947878,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux4x32.v,,mux2x5,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/mux4x32.v,1661947768,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/regfile.v,,mux4x32,,,,,,,,
+D:/vivado_project/multi_cpu/mccomp.srcs/sources_1/new/regfile.v,1661947877,verilog,,D:/vivado_project/multi_cpu/mccomp.srcs/sim_1/new/mccomp_tb.v,,regfile,,,,,,,,
